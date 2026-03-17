@@ -7,7 +7,7 @@ function setup() {
 function draw() {
   background(220);
   textSize(height / 16);
-  text("Assignment[1]", width / 2, height / 2);
+  text("https://studio.code.org/c/2771787518", width / 2, height / 2);
 }
 
 // This function is called any time the window is resized
